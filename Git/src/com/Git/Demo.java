@@ -8,10 +8,7 @@ public class Demo
 		System.out.println("Hello");
 
 	}
-	public void mn() 
-	{
+	
 		System.out.println("Hello");
-
-	}
 
 }
